@@ -62,9 +62,7 @@ public class MessageWriter implements Runnable
             System.out.println("Message #" + myCounter + " - " + myName); 
 
         } 
-
     } 
-
 } 
 
 public class MessageWriter implements Runnable 
