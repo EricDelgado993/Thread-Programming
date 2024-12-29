@@ -6,4 +6,5 @@
 
 <br><b>Features</b></br>
   - <b>Thread Creation:</b> Implements threads using the Runnable interface and Thread class. Demonstrates how to start and manage threads in Java.
+  - <b>Thread Termination:</b> Utilizes Thread.interrupt() to handle graceful thread termination by checking the interrupt flag.
   - <b>Concurrency Enhancements:</b> Allows dynamic thread creation based on command-line input. Implements delay variations for threads to simulate staggered execution. Shares a single counter between threads to illustrate resource sharing and synchronization.
